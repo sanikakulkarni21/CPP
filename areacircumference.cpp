@@ -9,7 +9,7 @@ using namespace std;
 //data type  variable_name;
 int count=86;
 
-//code segment
+
 //entry point function
 int main(){
      cout<<"Welcome to Programming";  
