@@ -12,7 +12,7 @@ int count=86;
 //code segment
 //entry point function
 int main(){
-     cout<<"Welcome to Programming";  //output
+     cout<<"Welcome to Programming";  
     count=count+1;  //processing :logic
      cout<<"\n Count is : "<<count;//output
     char ch='A'; //variable declaration
