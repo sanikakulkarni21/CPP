@@ -139,7 +139,7 @@ int main(){
     */
 
     Date date(18,3,2025);
-    Account acct123(45,"ravi tambade",56000,date);
+    Account acct123(45,"sanika kulkarni",56000,date);
     acct123.show();
 
     return 0;
