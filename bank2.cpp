@@ -87,8 +87,8 @@ int main(){
     dd.show();
     */
  
-    Account acct123(78,"Raj",50000);
-    Account acct654(98, "Manisha",89000);
+    Account acct123(78,"sanika",50000);
+    Account acct654(98, "sejal",89000);
 
     cout<<"before Funds Transfer"<<endl;
     acct123.show();
