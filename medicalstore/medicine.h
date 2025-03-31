@@ -32,6 +32,7 @@ public:
        
         friend ostream& operator<<(ostream &os, const Medicine &med);
 
+        
     void serialize(ofstream &outFile) ;
     void deserialize(ifstream &inFile);
     
