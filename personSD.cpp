@@ -73,6 +73,6 @@ int main(){
        cout << "Object deserialized from people.dat" << std::endl;
     }
 
-    
+    // Display the deserialized person object
     person2.display();
 }
