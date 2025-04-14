@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Tap/CPP/7_4_25",
-      "program": "d:/Tap/CPP/7_4_25/build/Debug/outDebug",
+      "cwd": "d:/Tap/CPP/11_4_25",
+      "program": "d:/Tap/CPP/11_4_25/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
